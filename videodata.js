@@ -53,7 +53,7 @@ const videoData = [
         "title": "A Fateful Encounter",
         "description": "Suzu encounters trouble at a restaurant and is unexpectedly rescued by Takashi, a middle-aged overweight man living a modest life.",
         "thumbnail": "https://lh3.googleusercontent.com/d/1YfX5M91iqQ0lprVMO5-UTsh9GvZYRSv8=s0",
-        "url": "https://drive.google.com/file/d/1-YF42Oa-M-D46tV-H6aoIwH2v8bow0Gs/view?t=1m30s"
+        "url": "https://www.eporner.com/embed/cs4sLMM5iYj/"
       },
       {
         "number": 2,
