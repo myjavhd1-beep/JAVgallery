@@ -56,9 +56,6 @@
         <button class="tab active" data-tab="videos">
             <i class="fas fa-play-circle"></i> Videos
         </button>
-        <button class="tab" data-tab="albums">
-            <i class="fas fa-book"></i> Albums
-        </button>
         <button class="tab" data-tab="pictures">
             <i class="fas fa-image"></i> Pictures
         </button>
@@ -295,56 +292,6 @@
         </div>
     </div>
 
-    <!-- Album Modal -->
-    <div class="modal" id="albumModal">
-        <div class="modal-container">
-            <div class="modal-header">
-                <h3 class="modal-title">Album Details</h3>
-                <button class="close-modal" id="closeAlbumModal">
-                    <i class="fas fa-times"></i>
-                </button>
-            </div>
-            
-            <div class="album-modal-content">
-                <h1 id="albumModalTitle">Album Title</h1>
-                
-                <!-- TAGS -->
-                <div id="albumModalTags" class="tags">
-                    <!-- Tags will be added dynamically -->
-                </div>
-                
-                <!-- ACTRESS -->
-                <div class="label-block">
-                    <div class="label-title">Actress</div>
-                    <div id="albumModalActress" class="actress-row">
-                        <!-- Actress will be added dynamically -->
-                    </div>
-                </div>
-                
-                <!-- IMAGE COUNT -->
-                <div class="label-block">
-                    <div class="label-title">Image Count</div>
-                    <div id="albumModalImageCount" class="label-value">0 images</div>
-                </div>
-                
-                <!-- COVER IMAGE -->
-                <div class="label-block">
-                    <div class="label-title">Cover Image</div>
-                    <div class="album-cover-container">
-                        <img id="albumMainCover" src="" alt="Album Cover">
-                    </div>
-                </div>
-                
-                <!-- ALBUM IMAGES -->
-                <div class="label-block">
-                    <div class="label-title">Album Images</div>
-                    <div class="album-images" id="albumImages">
-                        <!-- Album images will be added dynamically -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <!-- Filter Modal -->
     <div class="modal filter-modal" id="filterModal">
